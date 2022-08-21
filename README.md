@@ -1,1 +1,3 @@
-Web Developer focused in creating intuitive and dynamic Web Applications using a variety of technologies like PHP, SQL, HTML, CSS, and many, many more. 
+Software and Web Applications Developer working with ASP.NET Core, Razor Pages, Entity Framework, C#, SQL, HTML, CSS, JavaScript, and more! 
+
+Find me on https://www.mattalanowings.com/
